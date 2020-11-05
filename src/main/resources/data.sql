@@ -1,7 +1,7 @@
 DELETE
 FROM countries;
 
-INSERT INTO countries (countryid, name, population, landmasskm2, medianage)
+INSERT INTO countries (id, name, population, landmasskm2, medianage)
                VALUES (1, 'China',1420062022,9388211,39),
                       (2, 'India',1368737513,2973190,28),
                       (3, 'U.S.',329093110,9147420,38),
